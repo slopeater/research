@@ -3,7 +3,7 @@
 **The Call of Cthulhu
 By H. P. Lovecraft
 
-![alt text](https://github.com/slopeater/research/blob/main/d52pckp-274a562a-85aa-4de0-b0fa-d790533ffb9e.png)
+![alt text](https://github.com/slopeater/research/blob/main/thulu.png)
 
 
 (Found Among the Papers of the Late
